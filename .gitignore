@@ -4,3 +4,7 @@ test-mock/target/**
 test-devservices/target/**
 test-review/target/**
 reactive-develop/target/**
+reactive-eda/target/**
+reactive-review/target/**
+secure-jwt/target/**
+secure-sso/target/**
