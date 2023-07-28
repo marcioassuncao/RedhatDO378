@@ -9,3 +9,4 @@ reactive-eda/target/**
 reactive-review/target/**
 secure-jwt/target/**
 secure-sso/target/**
+secure-review/target/**
