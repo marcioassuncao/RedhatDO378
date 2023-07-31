@@ -10,3 +10,4 @@ reactive-review/target/**
 secure-jwt/target/**
 secure-sso/target/**
 secure-review/target/**
+deploy-openshift/target/**
