@@ -12,3 +12,4 @@ secure-sso/target/**
 secure-review/target/**
 deploy-openshift/target/**
 deploy-source/target/**
+deploy-binding/target/**
