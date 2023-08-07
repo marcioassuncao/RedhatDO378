@@ -14,3 +14,4 @@ deploy-openshift/target/**
 deploy-source/target/**
 deploy-binding/target/**
 deploy-review/target/**
+tolerance-policies/target/**
