@@ -15,3 +15,4 @@ deploy-source/target/**
 deploy-binding/target/**
 deploy-review/target/**
 tolerance-policies/target/**
+tolerance-health/target/**
