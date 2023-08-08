@@ -16,3 +16,4 @@ deploy-binding/target/**
 deploy-review/target/**
 tolerance-policies/target/**
 tolerance-health/target/**
+tolerance-review/target/**
