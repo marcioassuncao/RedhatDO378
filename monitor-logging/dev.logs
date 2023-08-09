@@ -1,0 +1,6 @@
+2023-08-09 06:24:51,654 INFO  [Timing.java] expenses 1.0.0-SNAPSHOT on JVM (powered by Quarkus 2.13.5.Final-redhat-00003) started in 0.571s. Listening on: http://localhost:8080
+2023-08-09 06:24:51,656 INFO  [Timing.java] Profile dev activated. Live Coding activated.
+2023-08-09 06:24:51,657 INFO  [Timing.java] Installed features: [cdi, kubernetes, resteasy-reactive, resteasy-reactive-jackson, smallrye-context-propagation, vertx]
+2023-08-09 06:24:51,657 INFO  [RuntimeUpdatesProcessor.java] Live reload total time: 0.597s 
+2023-08-09 06:24:51,660 DEBUG [ExpensesResource.java] Getting expense joel-2
+2023-08-09 06:26:28,900 INFO  [Timing.java] expenses stopped in 0.002s
