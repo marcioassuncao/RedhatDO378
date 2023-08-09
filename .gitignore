@@ -17,4 +17,5 @@ deploy-review/target/**
 tolerance-policies/target/**
 tolerance-health/target/**
 tolerance-review/target/**
+monitor-metrics/target/**
 monitor-logging/target/**
