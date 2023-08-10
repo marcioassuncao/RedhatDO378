@@ -19,3 +19,4 @@ tolerance-health/target/**
 tolerance-review/target/**
 monitor-metrics/target/**
 monitor-logging/target/**
+monitor-trace/target/**
