@@ -20,3 +20,4 @@ tolerance-review/target/**
 monitor-metrics/target/**
 monitor-logging/target/**
 monitor-trace/target/**
+monitor-review/target/**
