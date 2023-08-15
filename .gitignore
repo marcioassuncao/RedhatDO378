@@ -21,3 +21,4 @@ monitor-metrics/target/**
 monitor-logging/target/**
 monitor-trace/target/**
 monitor-review/target/**
+comprehensive-review/target/**
